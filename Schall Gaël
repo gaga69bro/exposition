@@ -1,3 +1,9 @@
+/mon-site/
+├── index.html
+├── audio/
+│   └── .mp3
+└── images/
+    └── mon_image.jpg
 <!DOCTYPE html>
 <html lang="fr">
 <head>
